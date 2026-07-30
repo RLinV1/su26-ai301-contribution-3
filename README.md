@@ -1,7 +1,7 @@
-# Contribution [N]: [Title]
+# Contribution [3]: [OpenTelemetry]
 
-**Contribution Number:** [N]  
-**Student:** [Name]  
+**Contribution Number:** [3]  
+**Student:** [Raymond Lin]  
 **Issue:** [#5924 — [feature request] Being able to filter logs like activities with a processor](https://github.com/open-telemetry/opentelemetry-dotnet/issues/5924)  
 **Repository:** [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet)  
 **Pull Request:** [#___ — PR title](pr-link)  
